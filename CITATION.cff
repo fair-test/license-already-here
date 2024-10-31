@@ -1,0 +1,13 @@
+title: license-already-here
+authors:
+  - given-names: Dorian
+    family-names: Portillo
+    email: wheresdorian@gmail.com
+    affiliation: FAIR Data Innovations Hub
+cff-version: 1.2.0
+message: If you use this software, please cite it using the metadata from this file.
+type: software
+abstract: dfasd
+keywords:
+  - eefdfas
+repository-code: https://github.com/fair-test/license-already-here

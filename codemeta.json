@@ -1,0 +1,28 @@
+{
+  "name": "license-already-here",
+  "@context": "https://w3id.org/codemeta/3.0",
+  "author": [
+    {
+      "affiliation": {
+        "name": "FAIR Data Innovations Hub",
+        "type": "Organization"
+      },
+      "email": "wheresdorian@gmail.com",
+      "familyName": "Portillo",
+      "id": "_:author_1",
+      "givenName": "Dorian",
+      "type": "Person"
+    }
+  ],
+  "codeRepository": "https://github.com/fair-test/license-already-here",
+  "dateCreated": "2024-10-30",
+  "description": "dfasd",
+  "issueTracker": "https://github.com/fair-test/license-already-here/issues",
+  "keywords": [
+    "eefdfas"
+  ],
+  "programmingLanguage": [
+    "C++"
+  ],
+  "type": "SoftwareSourceCode"
+}

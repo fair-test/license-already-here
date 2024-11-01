@@ -1,0 +1,60 @@
+{
+  "name": "license-already-here",
+  "@context": "https://w3id.org/codemeta/3.0",
+  "applicationCategory": "Authentication server",
+  "author": [
+    {
+      "affiliation": {
+        "name": "FAIR Data Innovations Hub",
+        "type": "Organization"
+      },
+      "email": "wheresdorian@gmail.com",
+      "familyName": "Portillo",
+      "id": "_:author_1",
+      "givenName": "Dorian",
+      "type": "Person"
+    }
+  ],
+  "codemeta:continuousIntegration": {
+    "id": "https://continuous.com"
+  },
+  "codemeta:isSourceCodeOf": {
+    "id": "is source code of"
+  },
+  "codeRepository": "https://github.com/fair-test/license-already-here",
+  "contIntegration": "https://continuous.com",
+  "dateCreated": "2024-10-30",
+  "dateModified": "2024-11-01",
+  "datePublished": "2024-11-20",
+  "description": "description",
+  "developmentStatus": "inactive",
+  "downloadUrl": "https://download",
+  "funder": {
+    "name": "funding org",
+    "type": "Organization"
+  },
+  "funding": "funding code",
+  "isPartOf": "https://partof.com",
+  "issueTracker": "https://github.com/fair-test/license-already-here/issues",
+  "keywords": [
+    "dfasdf"
+  ],
+  "operatingSystem": [
+    "Windows 7"
+  ],
+  "programmingLanguage": [
+    "C++"
+  ],
+  "relatedLink": [
+    "https://realtedlinks.com"
+  ],
+  "runtimePlatform": [
+    ".Net"
+  ],
+  "schema:releaseNotes": "current version",
+  "softwareRequirements": [
+    "othersoftware"
+  ],
+  "version": "1.2.1",
+  "type": "SoftwareSourceCode"
+}

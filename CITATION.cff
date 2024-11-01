@@ -7,7 +7,9 @@ authors:
 cff-version: 1.2.0
 message: If you use this software, please cite it using the metadata from this file.
 type: software
-abstract: dfasd
+abstract: description
 keywords:
-  - eefdfas
+  - dfasdf
 repository-code: https://github.com/fair-test/license-already-here
+date-released: 2024-11-01
+version: 1.2.1
